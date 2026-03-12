@@ -1,6 +1,7 @@
 # End to End Data Science Project
 conda create -p venv python==3.10 -y
 conda activate venv
+conda activate "/home/naus/Downloads/Machine Learning/ds-project/venv"
 ### Workflow--ML Pipelines
 
 1. Data Ingestion
